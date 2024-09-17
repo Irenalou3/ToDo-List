@@ -18,7 +18,7 @@ A simple To-Do List application built using HTML, CSS, and JavaScript. This app 
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/to-do-list.git
+    git clone https://github.com/Irenalou3/ToDo-List.git
     ```
 
 2. Navigate to the project directory:
