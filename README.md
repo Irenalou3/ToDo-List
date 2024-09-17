@@ -1,5 +1,5 @@
 # To-Do List App
-As somone who likes o get alot done in a day, I decided to create a easy to use ToDo List application for myself and others to be able to add and delete from in a simple wasy my main aim was to make it as user friendly as possible, And I underwent user researc with my elderly parents to recieve feedback from them wether they could use it with ease, And for someone who can barely work the t. I was pleased to hear that what I created was easy to understand. I uses HTML, CSS, and JavaScript. This app allows users to add tasks, delete tasks, and manage their to-do items effectively.
+As somone who always has a busy day, I decided to create a easy to use ToDo List application for myself and others to be able to add and delete from in a simple wasy my main aim was to make it as user friendly as possible, And I underwent user researc with my elderly parents to recieve feedback from them wether they could use it with ease, And for someone who can barely work the t. I was pleased to hear that what I created was easy to understand. I uses HTML, CSS, and JavaScript. This app allows users to add tasks, delete tasks, and manage their to-do items effectively.
 
 ## Features
 
