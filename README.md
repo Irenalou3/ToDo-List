@@ -1,6 +1,5 @@
 # To-Do List App
-As somone who always has a busy day, I decided to create a easy to use ToDo List application for myself and others. My main aim was to make it as user friendly as possible, I undertook user research with my elderly parents to recieve feedback from them wether they could use it with ease, And for people who can barely work the teleision. I was pleased to hear that what I created was easy to use. I uses HTML, CSS, and JavaScript. This app allows users to add tasks, delete tasks, and manage their to-do items effectively.
-
+I designed and developed a simple To-Do List app based on user research with my School of Code colleagues. The app helps create a learning plan with a clean, intuitive interface, allowing users to easily add, delete, and manage tasks.
 ## Features
 
 - Add new tasks to the to-do list
